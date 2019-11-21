@@ -1,0 +1,134 @@
+
+body{
+    
+    background:linear-gradient(30deg, PEACHPUFF, MOCCASIN, 	PAPAYAWHIP, LAVENDER, THISTLE, PLUM);
+    background-repeat: no-repeat;
+    background-size:auto;
+    background-attachment: fixed;
+}
+
+
+.caja1 {
+    background:linear-gradient(30deg,#DCDCDC, #E3E3E3, #F0F0F0, #F0F0F0,#DCDCDC);
+    border-radius: 11px 11px 11px 11px;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #000;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 2em 2em 4em;
+}
+
+.caja2 {
+    background:linear-gradient(30deg,#DCDCDC, #E3E3E3, #F0F0F0, #F0F0F0,#DCDCDC,#F5F5F5);
+    border-radius: 11px 11px 11px 11px;
+    box-shadow: 0px 22px 27px -10px rgba(166,146,96,1);
+    color: #545454;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 2em 2em 4em;
+    
+    font-family: sans-serif;
+    font-size: 17px;
+    color: #000;
+    text-align: left;
+    
+}
+
+.caja3 {
+
+    background:linear-gradient(30deg, #A1E2DD, #C0F0ED, #D8F5F3);
+    border-radius: 0px 0px 0px 0px;
+    border: #fff 5px double;
+    color: #545;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 300px;
+    padding: 2em 2em 4em;
+    
+}
+
+h1{
+    
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #000;
+    text-align: left;
+    font-weight: bold;
+    
+}
+
+h2{
+    
+    font-family:serif;
+    font-size: 30px;
+    color: #000;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+a:link{
+    
+    text-decoration:none;color:black;
+    text-decoration: none;
+}
+
+a:visited{
+    
+    color: black;  
+    text-decoration: none 
+        
+}
+a:hover{ 
+    
+    color: black; 
+    text-decoration: none 
+        
+}
+
+.boton{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+  }
+  .boton:hover{
+    color: #1883ba;
+    background-color: #ffffff;
+  }
+
+.IMG{
+    border-radius:  50px 50px 50px 50px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
